@@ -4,3 +4,6 @@ git commit -m nomdufichier
 git remote add nomdurépertoire https://github.com/nomdutilisateur/nomdurépertoire.git
 git push nomdurépertoire
 commande pour pull : git pull nomdurépertoire nomdelabranche
+créer une branche : git branch nomdelabranche
+switcher entre les branches : git checkout nomdelabranche
+ps si la branche a disparu utiliser la commande : git branch --unset-upstream
