@@ -1,0 +1,6 @@
+cloner un repository : git clone nomdurépertoire
+commandes pour push : git add .
+git commit -m nomdufichier
+git remote add nomdurépertoire https://github.com/nomdutilisateur/nomdurépertoire.git
+git push nomdurépertoire
+
