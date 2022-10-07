@@ -3,4 +3,4 @@ commandes pour push : git add .
 git commit -m nomdufichier
 git remote add nomdurépertoire https://github.com/nomdutilisateur/nomdurépertoire.git
 git push nomdurépertoire
-
+commande pour pull : git pull nomdurépertoire nomdelabranche
